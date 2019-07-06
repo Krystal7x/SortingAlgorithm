@@ -1,7 +1,7 @@
 package Swap_Sort;
 
 /**
- * Created by tt on 2018/9/5.
+ * Created by k on 2018/9/5.
  */
 public class LKK_Bubble_Sort {
 

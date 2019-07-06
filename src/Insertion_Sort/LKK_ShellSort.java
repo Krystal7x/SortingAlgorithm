@@ -3,7 +3,7 @@ package Insertion_Sort;
 import java.util.Arrays;
 
 /**
- * Created by tt on 2018/9/5.
+ * Created by k on 2018/9/5.
  */
 public class LKK_ShellSort {
     public static void main(String[] args) {

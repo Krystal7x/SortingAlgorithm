@@ -1,7 +1,7 @@
 package Swap_Sort;
 
 /**
- * Created by tt on 2018/9/19.
+ * Created by k on 2018/9/19.
  */
 public class LKK_quick_sort2 {
 
